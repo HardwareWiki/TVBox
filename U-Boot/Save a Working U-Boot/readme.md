@@ -7,7 +7,9 @@ https://forum.libreelec.tv/thread/20823-unofficial-le-for-rk356x-rk3328-rk3399-3
 >
 >1. Remove from working SD card u-boot. This can be done with this command on a Linux PC.
 >
->`dd if=/dev/<name_you_SD_works_card> of=u-boot-rockpro.img bs=1M count=16`
+>```
+>dd if=/dev/<name_you_SD_works_card> of=u-boot-rockpro.img bs=1M count=16
+>```
 >
 >2. Write LE to SD card, configure DTB and replace u-boot with taken from working SD card. U-boot replacement is performed by two commands.
 >
