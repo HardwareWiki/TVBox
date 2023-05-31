@@ -4,7 +4,7 @@ sch: https://www.google.com/search?q=LibreElec+rk3318
 Home: https://forum.libreelec.tv/board/43-rockchip/
 
 # Thread:
-- https://forum.libreelec.tv/thread/21117-unoffical-le-9-2-9-80-images-for-rk3229-rk3228/
+- https://forum.libreelec.tv/thread/17540-early-mainline-images-for-rk3288-rk3328-and-rk3399/
 - https://forum.libreelec.tv/thread/21108-rk3318-support-and-h96-max-dtb-files/
 
 
