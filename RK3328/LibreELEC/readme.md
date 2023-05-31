@@ -1,5 +1,8 @@
 sch: https://www.google.com/search?q=LibreElec+rk3318
 
+# Forum:
+Home: https://forum.libreelec.tv/board/43-rockchip/
+
 Thread:
 - https://forum.libreelec.tv/thread/21108-rk3318-support-and-h96-max-dtb-files/
 - https://forum.libreelec.tv/thread/20813-step-by-step-tutorial-libreelec-on-h96-max-also-ir-remote-support/
